@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <div className="calculator">
-        <h1>React Calculator</h1>
+        <h1>My React Calculator</h1>
         <div className="input-group">
           <input
             type="number"
